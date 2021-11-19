@@ -1,7 +1,5 @@
 # Handy aerodynamics apps
 
-* Hess-Smith: Hess-Smith panel code in Python. 
-
 <ul>
   <li>Hess-Smith: Hess-Smith panel code in Python. </li>
     <ul>
